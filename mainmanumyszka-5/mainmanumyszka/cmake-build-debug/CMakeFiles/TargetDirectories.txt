@@ -1,0 +1,3 @@
+/Users/kachowska/Library/CloudStorage/OneDrive-AkademiaGórniczo-Hutniczaim.StanisławaStaszicawKrakowie/загрузки с интернета/mainmanumyszka-5/mainmanumyszka/cmake-build-debug/CMakeFiles/mainmanumyszka-5.dir
+/Users/kachowska/Library/CloudStorage/OneDrive-AkademiaGórniczo-Hutniczaim.StanisławaStaszicawKrakowie/загрузки с интернета/mainmanumyszka-5/mainmanumyszka/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/kachowska/Library/CloudStorage/OneDrive-AkademiaGórniczo-Hutniczaim.StanisławaStaszicawKrakowie/загрузки с интернета/mainmanumyszka-5/mainmanumyszka/cmake-build-debug/CMakeFiles/rebuild_cache.dir

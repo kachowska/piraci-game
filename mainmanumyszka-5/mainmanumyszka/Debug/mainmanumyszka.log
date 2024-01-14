@@ -1,0 +1,24 @@
+﻿  MainMenu.cpp
+C:\Users\misia\OneDrive\Pulpit\studia uwu\informatyka\mainmanumyszka\mainmanumyszka\Button.h(67,16): warning C4244: "inicjowanie": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+C:\Users\misia\OneDrive\Pulpit\studia uwu\informatyka\mainmanumyszka\mainmanumyszka\Button.h(68,16): warning C4244: "inicjowanie": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+  Piraci.cpp
+C:\Users\misia\OneDrive\Pulpit\studia uwu\informatyka\mainmanumyszka\mainmanumyszka\Button.h(67,16): warning C4244: "inicjowanie": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+C:\Users\misia\OneDrive\Pulpit\studia uwu\informatyka\mainmanumyszka\mainmanumyszka\Button.h(68,16): warning C4244: "inicjowanie": konwersja z "T" do "float", możliwa utrata danych
+          with
+          [
+              T=int
+          ]
+  Generowanie kodu...
+  mainmanumyszka.vcxproj -> C:\Users\misia\OneDrive\Pulpit\studia uwu\informatyka\mainmanumyszka\Debug\mainmanumyszka.exe

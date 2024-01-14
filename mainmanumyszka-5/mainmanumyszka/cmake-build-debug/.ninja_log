@@ -1,0 +1,7 @@
+# ninja log v5
+2	493	1705171544980270550	CMakeFiles/mainmanumyszka-5.dir/polskieZnaki.cpp.o	2a8dcc89096b18d6
+1	528	1705171545015915365	CMakeFiles/mainmanumyszka-5.dir/fabula.cpp.o	40abf60b6546c398
+0	518	1705171545005216675	CMakeFiles/mainmanumyszka-5.dir/MainMenu.cpp.o	be5ac49e0edcd1b2
+1	530	1705171545018869478	CMakeFiles/mainmanumyszka-5.dir/Zagadki.cpp.o	2d20993a1157fddd
+0	550	1705171545038951721	CMakeFiles/mainmanumyszka-5.dir/Piraci.cpp.o	48416f3033b52f6e
+550	582	1705171545071926843	mainmanumyszka-5	77e22b6d9fb3406c
